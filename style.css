@@ -61,3 +61,39 @@
     color: white;
     border: none;
 }
+.icon{
+    background-color: black;
+    width: 200px;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 15px grey;
+    border-radius: 8px;
+    height: 280px;
+    margin-bottom: 25px;
+   
+}
+.icon img{
+    width: 75px;
+    margin-bottom: 7px;
+    padding-bottom: 15px;
+    
+    
+}
+.so{
+   
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.det{
+    padding: 10px 20px;
+    background-color: grey;
+    color: white;
+}
+.hap{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+}

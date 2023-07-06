@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
+    padding: 15px;
     color: aliceblue;
 }
 .con img{
@@ -29,4 +29,35 @@
 }
 .menu:hover{
     color: blue;
+}
+.im img{
+    width: 300px;
+}
+.explor{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("images/background.png"), linear-gradient(45deg,rgb(8, 8, 8),rgb(53, 53, 53));
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+  
+}
+.pro{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.par{
+    font-weight: bolder;
+    margin-top: 7px;
+    font-size: large;
+}
+.but{
+    background-color: red;
+    margin-top: 7px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
 }

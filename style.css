@@ -67,10 +67,11 @@
     color: aliceblue;
     padding: 20px;
     text-align: center;
-    box-shadow: 10px 10px 15px grey;
+    box-shadow: 0 0px 20px grey;
     border-radius: 8px;
     height: 280px;
     margin-bottom: 25px;
+    border: none;
    
 }
 .icon img{
@@ -82,7 +83,7 @@
 }
 .so{
    
-    margin-top: 10px;
+    margin-top: 20px;
     display: flex;
     justify-content: space-around;
 }
@@ -93,7 +94,11 @@
 }
 .hap{
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-bottom: 20px;
     font-size: 60px;
+    color: aliceblue;
+}
+.ou{
+    background-color: black;
 }
